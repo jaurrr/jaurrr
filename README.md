@@ -76,9 +76,9 @@ Hi, I'm **Jauhar Ayyub** — a Frontend Developer from India who builds for the 
 ## `~/` selected work
 
 | project | live | stack |
-|---|---|---|
+|---|---|
 | **[JaurTools](https://github.com/jaurrr/Jaurtools)** — 637 free browser tools, no sign-up, no server | [jaurtools.vercel.app](https://jaurtools.vercel.app) | `Angular` `TypeScript` |
-| **[Toos Kitchen × Zaffran](https://github.com/jaurrr/toos-kitchen-site)** — bilingual restaurant site with cart & WhatsApp ordering | — | `Angular` `TypeScript` |
+| **[Toos Kitchen × Zaffran](https://github.com/jaurrr/toos-kitchen-site)** — bilingual restaurant site with cart & WhatsApp ordering | [toos-kitchen-zaffran.vercel.app](https://toos-kitchen-zaffran.vercel.app) | `Angular` `TypeScript` |
 | **[Hamza Travels](https://github.com/jaurrr/hamza-travels)** — travel documents & ticketing business site | — | `Angular` `SCSS` |
 | **[Bride Herbal Beauty Parlour](https://github.com/jaurrr/bride-herbal-perlor)** — client site for a beauty parlour | — | `Angular` `SCSS` |
 | **[Portfolio](https://github.com/jaurrr/Jaur_SupraME_Portfolio)** | [jaur-supra-me-portfolio.vercel.app](https://jaur-supra-me-portfolio.vercel.app) | `TypeScript` |
